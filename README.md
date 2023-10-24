@@ -3,7 +3,6 @@ Desfibriladores es una aplicación basada en microservicios.
 Este proyecto esta basado en el stack PERN (Postgres, Express, ReactJs, NodeJs) usando TypeScript.
 ## Requirements
 - Node Js 14.XX
-- Yarn (optional)
 - Docker
 
 Este proyecto utiliza Docker para controlar toda la arquitectura del software.
